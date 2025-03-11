@@ -1,8 +1,3 @@
-# Python-proyecto-final
-Here is the updated content for your README file:
-
----
-
 # Python Proyecto Final
 
 ## Overview
